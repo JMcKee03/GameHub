@@ -21,4 +21,5 @@ Each game is fully playable in the browser and designed with reusable UI pattern
 - DOM manipulation and event handling
 
 
-View the site here![https://jmckee03.github.io/GameHub/]
+View the site here![[https://jmckee03.github.io/GameHub/](https://jmckee03.github.io/GameHub/
+)]
